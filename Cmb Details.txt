@@ -1,0 +1,16 @@
+1	Biology	Chemistry
+2	Biology	Chemistry	Statistics
+3	Biology	Chemistry	Computer Science
+4	Biology	Chemistry	Physics
+8	Biology	Chemistry	Geology
+15	Chemistry	Geology	Physics
+18	Chemistry	Mathematics
+19	Chemistry	Mathematics	Physics
+21	Chemistry	Computer Science	Statistics
+22	Chemistry	Mathematics	Statistics
+26	Mathematics	Computer Science	Statistics
+27	Physics	Mathematics
+28	Physics	Computer Science	Geology
+30	Statistics	Mathematics
+31	Physics	Mathematics	Computer Science
+32	Physics	Mathematics	Statistics
